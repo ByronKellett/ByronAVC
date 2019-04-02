@@ -7,6 +7,14 @@ Now if you're using Final Cut Pro X you haven't needed this since the really ear
 
 ## How To Use
 
+EDIT: Since trying to upload it, I've had to add a step. GitHub, its 25mb online upload limit and FFMpeg - all at fault.
+
+1. Download this and open the app by right clicking and selecting Open Package Contents.
+2. Navigate to Contents/MacOS
+3. Extract the ffmpeg.zip file by double clicking it.
+4. Go up to the root folder and start the applet.
+
+And now, the proper instructions.
 1. Open the Applet. I've not used a Mac much since finishing Film A Level, so whether it works on new OS X version I don't know.
 2. Find the file you want to convert and Open it.
 3. Wait for the confirmation screen to pop up.
